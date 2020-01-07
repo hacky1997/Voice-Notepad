@@ -1,7 +1,8 @@
 # Voice-Notepad
 
 <p align="center">
-<img src="https://i.ibb.co/WswLnbZ/voice.png" alt="voice" border="0"></p>
+  <img src="https://i.ibb.co/hCjSsPb/voice.png" alt="voice" border="0">
+</p>
 
 `Created By : Sayak Naskar`
 `License : MIT`
