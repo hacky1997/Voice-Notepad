@@ -1,10 +1,9 @@
 # Voice-Notepad
 
 <p align="center">
-  <img src="https://i.ibb.co/hCjSsPb/voice.png" alt="voice" border="0">
+  <img src="https://i.ibb.co/hCjSsPb/voice.png" alt="voice" border="0"></p>
 
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd8ee8a28ced444db5ba958f54ed3d9f)](https://www.codacy.com/manual/hacky1997/Voice-Notepad?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hacky1997/Voice-Notepad&amp;utm_campaign=Badge_Grade)
-</p>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd8ee8a28ced444db5ba958f54ed3d9f)](https://www.codacy.com/manual/hacky1997/Voice-Notepad?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hacky1997/Voice-Notepad&amp;utm_campaign=Badge_Grade)
 
 `Created By : Sayak Naskar`
 `License : MIT`
