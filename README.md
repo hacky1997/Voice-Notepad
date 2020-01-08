@@ -19,9 +19,8 @@
 
 <p align="center">
   <img alt="Voice Notepad" src="https://github.com/hacky1997/Voice-Notepad/blob/master/Image/VoiceNote.png" width="577" height="500" />
-# Voice Notepad
 </p>
-
+<h4 align="center">Voice Notepad</h4>
 ----
 
 ## About
