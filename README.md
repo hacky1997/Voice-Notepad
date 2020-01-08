@@ -7,6 +7,7 @@
   
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd8ee8a28ced444db5ba958f54ed3d9f)](https://www.codacy.com/manual/hacky1997/Voice-Notepad?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hacky1997/Voice-Notepad&amp;utm_campaign=Badge_Grade)
 [![Circleci](https://circleci.com/gh/hacky1997/Voice-Notepad.svg?style=svg)](https://circleci.com/gh/hacky1997/Voice-Notepad)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 </p>
 
