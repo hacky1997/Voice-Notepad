@@ -17,6 +17,14 @@
 
 **Free, Open-Source Notepad System with voice**
 
+----
+
+<p align="center">
+  <img alt="Voice Notepad" src="https://github.com/hacky1997/Voice-Notepad/blob/master/Image/VoiceNote.png" width="577" height="685" />
+</p>
+
+----
+
 ## About
   It's a `python` based project using speech to text voice response. This project comes with GUI which will be very easy to use. There are three buttons on the GUI Frame. By using this, anybody can record anything like recording lectures or other stuffs. It can easily fetch `complex` words. It has an export button to export all the records. Just need a `good quality internet speed`.
   
