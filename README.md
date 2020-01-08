@@ -20,7 +20,8 @@
 <p align="center">
   <img alt="Voice Notepad" src="https://github.com/hacky1997/Voice-Notepad/blob/master/Image/VoiceNote.png" width="577" height="500" />
 </p>
-<h4 align="center">Voice Notepad</h4>
+<h2 align="center">Voice Notepad</h2>
+
 ----
 
 ## About
