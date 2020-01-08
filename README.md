@@ -16,8 +16,26 @@
 
 **Free, Open-Source Notepad System with voice**
 
+## About
+  It's a `python` based project using speech to text voice response. This project comes with GUI which will be very easy to use. There are three buttons on the GUI Frame. By using this, anybody can record anything like recording lectures or other stuffs. It can easily fetch `complex` words. It has an export button to export all the records. Just need a `good quality internet speed`.
+  
 ## Installation
-```pip install -r requirements.txt ```
+<details><summary>Windows Installation</summary>
+ 
+ #### ```pip install -r requirements.txt```
+ 
+</details>
+
+<details><summary>Linux Installation</summary>
+ 
+ #### `python3 -m pip install -r requirements.txt`
+ 
+</details>
+
+## Features
+* Export
+* Speak
+* Reset
 
 ## Pyaudio
  - Select your achitecture & Download [Pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) from this link.
