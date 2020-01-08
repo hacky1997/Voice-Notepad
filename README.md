@@ -20,7 +20,7 @@
 ----
 
 <p align="center">
-  <img alt="Voice Notepad" src="https://github.com/hacky1997/Voice-Notepad/blob/master/Image/VoiceNote.png" width="577" height="685" />
+  <img alt="Voice Notepad" src="https://github.com/hacky1997/Voice-Notepad/blob/master/Image/VoiceNote.png" width="577" height="600" />
 </p>
 
 ----
