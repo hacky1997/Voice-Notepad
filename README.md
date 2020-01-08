@@ -1,5 +1,3 @@
-# Voice Notepad
-
 <p align="center">
   <img src="https://i.ibb.co/hCjSsPb/voice.png" alt="voice" border="0"></p>
 
@@ -21,6 +19,7 @@
 
 <p align="center">
   <img alt="Voice Notepad" src="https://github.com/hacky1997/Voice-Notepad/blob/master/Image/VoiceNote.png" width="577" height="500" />
+# Voice Notepad
 </p>
 
 ----
