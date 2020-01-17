@@ -31,7 +31,11 @@
 ## Installation
 <details><summary>Windows Installation</summary>
  
- #### ```pip install -r requirements.txt```
+ #### For python2
+  ```pip install -r requirements.txt```
+  
+ #### For python3
+  ```python3 -m pip install -r requirements.txt```
  
 </details>
 
