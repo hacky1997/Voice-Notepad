@@ -15,7 +15,7 @@
 `License : MIT`
 `Email: sayaknaskar@gmail.com`
 
-**Free, Open-Source Notepad System with voice**
+**Free, Open-Source Notepad System with voice :smile:**
 
 ----
 
@@ -30,9 +30,6 @@
   
 ## Installation
 <details><summary>Windows Installation</summary>
- 
- #### For python2
-  ```pip install -r requirements.txt```
   
  #### For python3
   ```python3 -m pip install -r requirements.txt```
@@ -40,12 +37,9 @@
 </details>
 
 <details><summary>Linux Installation</summary>
- 
-#### For python2
-  ```pip install -r requirements.txt```
   
  #### For python3
-  ```python3 -m pip install -r requirements.txt```
+  ```pip3 install -r requirements.txt```
 
 </details>
 
