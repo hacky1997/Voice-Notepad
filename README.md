@@ -57,7 +57,7 @@
 ## Usage
  ```python3 voicenote.py ```
 
-## Warning
+## Warning :warning:
  This is a **personal** development, please respect its philosophy.
  
  
