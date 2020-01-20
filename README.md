@@ -1,4 +1,4 @@
-#                                           Voice Notepad
+#    Voice Notepad
 <p align="center">
   <img src="https://i.ibb.co/hCjSsPb/voice.png" alt="voice" border="0" height="120"></p>
 </p>
